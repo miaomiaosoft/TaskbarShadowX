@@ -6,3 +6,6 @@
 
 #### 效果截图：
 [![阴影效果](https://raw.githubusercontent.com/miaomiaosoft/TaskbarShadowX/master/images/PIC01.jpg "阴影效果")](https://raw.githubusercontent.com/miaomiaosoft/TaskbarShadowX/master/images/PIC01.jpg "阴影效果")
+
+#### 程序下载：
+https://github.com/miaomiaosoft/TaskbarShadowX/releases
